@@ -34,7 +34,7 @@ Explore my repositories to see my latest applications, code experiments, and ope
 
 * **Email:** [sagarkale94@gmail.com](mailto:sagarkale94@gmail.com)
 * **LinkedIn:** [linkedin.com/in/sagar-kale](https://in.linkedin.com/in/sagar-kale)
-* **Portfolio:** [sagar-kale-dev.github.io/portfolio](https://sagar-kale-dev.github.io/portfolio/index.html)
+* **Portfolio:** [sagar-kale-dev.github.io/portfolio](https://sagar-kale-dev.github.io)
 
 ---
 
