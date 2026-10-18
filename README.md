@@ -17,7 +17,7 @@ I am a passionate software developer based in India with expertise in full-stack
 Explore my repositories to see my latest applications, code experiments, and open-source contributions.
 
 * **GitHub Profile:** [sagar-kale-dev on GitHub](https://github.com/sagar-kale-dev)
-* **Personal Portfolio:** [Official Website](https://sagar-kale-dev.github.io/portfolio/index.html)
+* **Personal Portfolio:** [Official Website](https://sagar-kale-dev.github.io)
 
 ---
 
